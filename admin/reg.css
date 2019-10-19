@@ -1,0 +1,104 @@
+body
+{
+    background: url("../pic/pic5.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-backgeround-size:cover;
+    direction: rtl;
+    margin-top: 50px;
+    margin-right: 70px;
+    font-size: 18px;
+}
+#student
+{
+    background-color:white;
+    align-content: center;
+    border-radius: 3px;
+    /*border: none;*/
+    margin-right: 20px;
+    margin-top: 30px;
+    width: 300px;
+    height: 30px;
+     border-color:rgb(69, 21, 85);
+}
+#teach
+{
+    background-color:white;
+    align-content: center;
+    border-radius: 3px;
+    margin-right: 20px;
+    width: 300px;
+    height: 30px;
+     border-color:rgb(69, 21, 85);
+}
+#object
+{
+    background-color:white;
+    align-content: center;
+    border-radius: 3px;
+    margin-right: 20px;
+    width: 300px;
+    height: 30px;
+     border-color:rgb(69, 21, 85);
+}
+
+#btn
+{
+    border-radius: 4px;
+    border: none;
+    background-color:rgb(69, 21, 85);
+    color: aliceblue;
+    margin-right:200px;
+    height: 30px;
+    width: 100px;
+
+    
+}
+#txt
+{
+    margin-right: 20px;
+    width: 300px;
+    height: 100px;
+    border-color:rgb(69, 21, 85);
+    border-radius: 3px;
+}
+#admin
+{
+   
+    background:rgb(69, 21, 85);
+    height: 30px;
+
+}
+#admin ul li 
+{
+    float: right;
+    margin-right: 20px;
+    color: aliceblue;
+    
+    margin-top: 5px;
+
+}
+#admin ul li a
+{
+color:white;
+}
+#admin ul li a:hover
+{
+    color: black;
+}
+
+#asli
+{
+    color: antiquewhite;
+    font-size: 18px;
+    font-family:bnazanin;
+
+}
+
+@font-face
+{
+    font-family:bnazanin;
+    src:url(../font/B\ Nazanin\ Bold.ttf);
+}

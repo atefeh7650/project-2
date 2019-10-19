@@ -1,0 +1,101 @@
+body
+{
+    background: url("../pic/pic8.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-backgeround-size:cover;
+    direction: rtl;
+    margin-top: 50px;
+    margin-right: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+#log-admin
+{
+
+    border:2px solid black;
+    width : 300px;
+    height: 200px;
+    margin-right:550px;
+    margin-top:40px;
+    text-align:center;
+
+}
+
+
+#user
+{
+    background-color:white;
+    border-radius: 3px;
+    /*border: none;*/
+    margin-right: 10px;
+    margin-top: 10px;
+    width: 200px;
+    height: 30px;
+     border-color:rgb(69, 21, 85);
+     text-align: start;
+     align-content:flex-start;
+}
+#pass
+{
+    background-color:white;
+    border-radius: 3px;
+    /*border: none;*/
+    margin-right: 10px;
+    margin-top: 10px;
+    width: 200px;
+    height: 30px;
+     border-color:rgb(69, 21, 85);
+     text-align: start;
+     align-content:flex-start;
+}
+#btn
+{
+    border-radius: 4px;
+    border: none;
+    background-color:rgb(69, 21, 85);
+    color: aliceblue;
+    margin-right: 10px;
+    height: 30px;
+    width: 200px;
+    font-family:bnazanin;
+    
+}
+#log
+{
+    margin-top: 20px;
+    
+}
+#img
+{
+    margin-right: 600px;
+    margin-top: 50px;
+}
+#a
+{
+    margin-right: 650px; 
+    font-size: 25px;
+    font-family:bnazanin;
+}
+@font-face
+{
+    font-family:bnazanin;
+    src:url(../font/B\ Nazanin\ Bold.ttf);
+}
+#head
+{
+   
+    height: 30px;
+    width: 150px;
+    margin-right: 530px;
+
+}
+#b
+{
+    color:rgb(69, 21, 85);
+    font-size: 24px;
+    font-family:bnazanin;
+
+}

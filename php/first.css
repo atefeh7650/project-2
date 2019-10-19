@@ -1,0 +1,88 @@
+
+body {
+
+    background: url("../pic/pic5.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-backgeround-size:cover;
+    direction: rtl;
+    margin-top: 150px;
+    margin-right: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+
+
+
+}
+
+#search
+{
+    
+    background-color:white;
+    align-content: center;
+    border-radius: 3px;
+    /*border: none;*/
+    margin-right: 80px;
+    margin-top: 50px;
+    width: 330px;
+    height: 35px;
+     border-color:rgb(69, 21, 85);
+  
+    }
+
+#sub
+{
+    border-radius: 4px;
+    border: none;
+    background-color:rgb(69, 21, 85);
+    color: aliceblue;
+    margin-right: 37px;
+    height: 31px;
+    width: 100px;
+    
+
+
+}
+#first
+{
+    border-radius: 3px;
+    margin-right: 20px;
+    height: 25px;
+    
+    width: 200px;
+    height: 35px;
+    border-color:rgb(69, 21, 85);
+
+}
+#login
+{
+   
+    background:rgb(69, 21, 85);
+    height: 70px;
+    margin-top:10px;
+
+}
+#asli
+{
+    color: antiquewhite;
+}
+#login ul li 
+{
+    float: right;
+    margin-right: 20px;
+    color: aliceblue;
+    font-size: 20px;
+    margin-top: 50px;
+
+}
+#login ul li a
+{
+color:white;
+}
+#login ul li a:hover
+{
+    color: black;
+}
+
